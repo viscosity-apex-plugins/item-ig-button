@@ -1,2 +1,3 @@
-# item-ig-button
-APEX | Interactive Grid | Button
+# Interactive Grid | Button
+
+Add a declarative button to the Interactive Grid the APEX way!
